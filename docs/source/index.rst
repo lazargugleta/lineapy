@@ -19,20 +19,28 @@ Welcome to LineaPy!
    guide/refactor_code/index
    guide/build_pipelines/index
    guide/manage_artifacts/index
-   
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contributor Guide
+
+   development/start/index
+   development/areas/index
+
 
 .. toctree::
    :maxdepth: 1
    :caption: Support
 
    support/faq
+   support/community
 
 
 .. toctree::
    :maxdepth: 1
    :caption: References
 
-   references/development
    references/internals
    references/configurations
    references/api_reference
